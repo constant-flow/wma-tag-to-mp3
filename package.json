@@ -1,0 +1,16 @@
+{
+  "name": "wma2mp3-tag-mover",
+  "version": "1.0.0",
+  "description": "Moves wma media tags to mp3s in the same folder",
+  "main": "wma2mp3-tag-mover.js",
+  "scripts": {
+    "start": "node wma2mp3-tag-mover.js"
+  },
+  "author": "Constantin Wolf",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata": "^6.3.7",
+    "node-id3": "^0.1.16",
+    "readline-sync": "^1.4.10"
+  }
+}
