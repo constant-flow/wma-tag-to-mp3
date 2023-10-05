@@ -9,7 +9,7 @@
   "author": "Constantin Wolf",
   "license": "ISC",
   "dependencies": {
-    "music-metadata": "^6.3.7",
+    "music-metadata": "^8.1.4",
     "node-id3": "^0.1.16",
     "readline-sync": "^1.4.10"
   }
